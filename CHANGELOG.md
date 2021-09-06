@@ -1,3 +1,6 @@
+## v0.8.0
+* Support Rails 6.0, Rails 6.1
+
 ## v0.4.2
 * Support Time, DateTime, and Date class as input
 
